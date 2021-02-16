@@ -1,0 +1,32 @@
+.block5{
+width: 1330px;
+height: 158px;
+left: 0px;
+top: 0px;
+background: #CB6F3B;	
+}
+.footer{
+
+padding:30px;
+width:1110px;
+height:150px;	
+top:950px;	
+float:left;
+
+background:#000000;	
+
+}
+
+div.break>img{
+	padding:6px;
+	float:left;
+	display:block;
+	height:400px;
+	
+}
+.break{
+	
+	height:400px;
+	
+}
+

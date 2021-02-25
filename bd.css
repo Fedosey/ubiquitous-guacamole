@@ -17,16 +17,26 @@ background:#000000;
 
 }
 
-div.break>img{
+div.brake>img{
 	padding:6px;
 	float:left;
 	display:block;
 	height:400px;
+	width:600px;
 	
 }
-.break{
+.brake{
 	
+	
+	padding:4px;
 	height:400px;
 	
 }
 
+.o{
+	
+	padding:10px;
+	height:500px;
+	width:700px;
+	
+}

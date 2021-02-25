@@ -1,0 +1,53 @@
+*{
+	background-color:red;
+}
+body{
+	width:100%;
+}
+header {
+position: absolute;
+width: 1945px;
+height: 158px;
+left: 0px;
+top: 0px;
+}
+
+nav {
+    
+    height: 60px;
+	width:80%;
+	
+}
+
+aside {
+    width: 200px; /* Ўирина колонки */
+   
+    height: 780px;	
+	float:left;
+	width:10%;
+}
+
+article {
+    position:relative;
+    b
+    height: 800px;
+	width:80%;
+	float:left; 
+}
+
+
+}
+#container{
+	width:80%;
+	margin:0 auto;
+	
+}
+
+h2{
+	position:absolute;
+	left:550px;
+	top:50px;
+}
+h1{
+	position:absolute;
+	left:550px;

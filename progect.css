@@ -1,9 +1,12 @@
 .block5{
-width: 1121px;
-height: 158px;
+width: 100%;
+height: 70px;
 left: 0px;
 top: 0px;
 background: #CB6F3B;
+margin: 0 auto;
+margin:3% 0% 3% 0%;
+
 }
 .oi{
 display:block;
@@ -13,10 +16,13 @@ left: 185;
 top: 190px;
 	
 }
-
+body{
+	
+	
+}
 	
 
-.line{
+.lina{
 	position: absolute;
 width: 1121px;
 height: 0px;
@@ -170,9 +176,9 @@ background: #CB6F3B;
 }
 
 .footer{
-position:absolute;
-width:1110px;
-height:158px;	
+margin:5% 0% 0% 0%;
+width:100%;
+height:10%;	
 top:1400px;	
 background:#000000;	
 }
@@ -189,12 +195,14 @@ left:10px;
 	height:600px;
 background: #CB6F3B;
 margin: 0 auto;
+
 }
 .naprav_block{
 		width:150px;
 		margin:30px 5px 30px 5px;
 		padding:5px;
 		background:#ffffff;
+		
 }	
 .f{
 	position:absolute;
@@ -210,19 +218,28 @@ margin: 0 auto;
 }	
 
 
-
-
-.inf_o_st{
-	padding:70px;
-	height:276px;
-	width:300px;
-	background:#ffffff;
-	position:absolute;
-	top:790px;
-	left:400px;
+.list{
+	float:left;
+	border:1px solid black;
+	
 }
 
 
+.inf_o_st{	
+	padding:70px	;
+	height:276px;
+	width:300px;
+	background:#ffffff;
+	float:left;
+	margin:5%;
+
+}
+
+.btnRight{
+	
+	margin:10px;
+	
+}
 img {
 	
     display: none;
@@ -231,11 +248,16 @@ img {
 
 .block {
     display: block;
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
+    object-fit:cover;
+    min-width: 90%;
+    min-height: 90%;
+	
 }
 .slides {
-    width: 1000px;
-    height: 500px;
+	
+	
+    width: 90%;
+    height:90%;
+		margin:0 auto;
+
 }

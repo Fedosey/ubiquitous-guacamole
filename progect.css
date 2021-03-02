@@ -24,10 +24,11 @@ body{
 
 .lina{
 	position: absolute;
-width: 1121px;
+width:99%;
 height: 0px;
 left: 0px;
-top:  750px;
+top:120%;
+
 
 border: 5px solid #000000;
 transform: rotate(0.09deg);
@@ -194,8 +195,9 @@ left:10px;
 	width:700px;
 	height:600px;
 background: #CB6F3B;
-margin: 0 auto;
-
+left:19%;
+position:relative;
+margin:5%;
 }
 .naprav_block{
 		width:150px;
@@ -225,7 +227,8 @@ margin: 0 auto;
 }
 
 
-.inf_o_st{	
+.inf_o_st{
+	
 	padding:70px	;
 	height:276px;
 	width:300px;
@@ -241,21 +244,27 @@ margin: 0 auto;
 	
 }
 img {
-	
+	margin:0 auto;
     display: none;
-	height:200px;
+	height:10%;
 }
 
 .block {
     display: block;
     object-fit:cover;
-    min-width: 90%;
-    min-height: 90%;
+    min-width:  60%;
+    min-height: 60%;
 	
+}
+
+.gr{
+	
+	background-color:c4c4c4;
+						
 }
 .slides {
 	
-	
+	padding:1%;
     width: 90%;
     height:90%;
 		margin:0 auto;

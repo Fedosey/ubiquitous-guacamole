@@ -6,6 +6,7 @@ top: 0px;
 background: #CB6F3B;
 margin: 0 auto;
 margin:3% 0% 3% 0%;
+padding:1%;	
 
 }
 .oi{
@@ -237,7 +238,7 @@ margin:5%;
 	margin:10px;
 	
 }
-div>img{
+p>img{
 	margin:0 auto;
     display: none;
 	height:10%;
@@ -366,5 +367,26 @@ transform: rotate(0.09deg);
 	
 }
 	
+	
+	
+.tvr{
+	
+position:relative;
+left:13%;
+	
+}
+.ua{
+	
+	position:relative;
+	left:21%;
+	
+}
+	
+.kj{
+	
+	width:2%;
+	
+	
+}	
 	
 	

@@ -12,4 +12,5 @@ btnRight.addEventListener("click", function () {
         slides[i-1].classList.remove("block");
         slides[i].classList.add("block");
     }
+
 })

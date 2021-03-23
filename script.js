@@ -1,5 +1,5 @@
 let btnRight = document.querySelector(".btnRight");
-let slides = document.querySelectorAll("img");
+let slides = document.getElementsByClassName("si");
 let i = 0;
 
 btnRight.addEventListener("click", function () {
